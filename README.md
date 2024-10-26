@@ -18,44 +18,18 @@ Cada proyecto está organizado en carpetas numeradas de `01` a `50`. Dentro de c
 - `style.css`: Estilos específicos de cada proyecto.
 - `script.js`: Funcionalidades en JavaScript.
 - **Opcional:** `README.md` con una breve descripción del proyecto y funcionalidades clave.
+  
+## Instalación
 
-### Ejemplo de Estructura
+Para utilizar este repositorio, sigue estos pasos:
 
-```plaintext
-50-projects-50-days/
-│
-├── 01 - Proyecto1/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── 02 - Proyecto2/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-└── ... hasta 50 proyectos
-Redes Sociales
-Twitter
+1. **Clona el repositorio**: Abre tu terminal y ejecuta el siguiente comando:
+   ```bash
+   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   
+(Reemplaza tu-usuario y nombre-del-repositorio con tu información correspondiente.)
 
-LinkedIn
-
-GitHub
-
-Pasos de Instalación
-Clona el repositorio:
-
-bash
-
-Copiar
-git clone https://github.com/tu_usuario/50-projects-50-days.git
 Navega a la carpeta del proyecto:
+  ```bash
+    cd nombre-del-repositorio
 
-bash
-
-Copiar
-cd 50-projects-50-days/01-Proyecto1
-Abre index.html en tu navegador para ver el proyecto en acción.
-
-
-Copiar
