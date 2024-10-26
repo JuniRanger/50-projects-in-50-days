@@ -16,7 +16,7 @@ Cada proyecto está organizado en carpetas numeradas de `01` a `50`. Dentro de c
 - `index.html`: Estructura principal del proyecto.
 - `style.css`: Estilos específicos de cada proyecto.
 - `script.js`: Funcionalidades en JavaScript.
-- **Instrucción breve:** ``Carpeta project` carpeta con estilos y font iniciales para los demas proyectos.`
+- **Instrucción breve:** ``Carpeta project`   carpeta con estilos y font iniciales para los demas proyectos.`
 
 ## Instalación
 
