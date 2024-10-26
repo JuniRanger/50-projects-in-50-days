@@ -1,3 +1,4 @@
+
 # 50 Projects in 50 Days
 
 Este repositorio contiene 50 proyectos desarrollados en 50 días usando HTML, CSS y JavaScript. Cada proyecto aborda diferentes conceptos de desarrollo web, y algunos incluyen la integración de APIs cuando es necesario.
@@ -19,6 +20,7 @@ Cada proyecto está organizado en carpetas numeradas de `01` a `50`. Dentro de c
 - **Opcional:** `README.md` con una breve descripción del proyecto y funcionalidades clave.
 
 ### Ejemplo de Estructura
+
 ```plaintext
 50-projects-50-days/
 │
@@ -33,3 +35,27 @@ Cada proyecto está organizado en carpetas numeradas de `01` a `50`. Dentro de c
 │   └── script.js
 │
 └── ... hasta 50 proyectos
+Redes Sociales
+Twitter
+
+LinkedIn
+
+GitHub
+
+Pasos de Instalación
+Clona el repositorio:
+
+bash
+
+Copiar
+git clone https://github.com/tu_usuario/50-projects-50-days.git
+Navega a la carpeta del proyecto:
+
+bash
+
+Copiar
+cd 50-projects-50-days/01-Proyecto1
+Abre index.html en tu navegador para ver el proyecto en acción.
+
+
+Copiar
