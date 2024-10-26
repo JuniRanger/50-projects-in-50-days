@@ -1,4 +1,3 @@
-
 # 50 Projects in 50 Days
 
 Este repositorio contiene 50 proyectos desarrollados en 50 días usando HTML, CSS y JavaScript. Cada proyecto aborda diferentes conceptos de desarrollo web, y algunos incluyen la integración de APIs cuando es necesario.
@@ -17,8 +16,8 @@ Cada proyecto está organizado en carpetas numeradas de `01` a `50`. Dentro de c
 - `index.html`: Estructura principal del proyecto.
 - `style.css`: Estilos específicos de cada proyecto.
 - `script.js`: Funcionalidades en JavaScript.
-- **Opcional:** `README.md` con una breve descripción del proyecto y funcionalidades clave.
-  
+- **Instrucción breve:** ``Carpeta project` carpeta con estilos y font iniciales para los demas proyectos.`
+
 ## Instalación
 
 Para utilizar este repositorio, sigue estos pasos:
@@ -29,8 +28,7 @@ Para utilizar este repositorio, sigue estos pasos:
 
 Puedes seguirme en mis redes sociales para más proyectos y actualizaciones:
 
-- **Facebook**: [Jonathan Melendez](https://twitter.com/tu_usuario)
-- **LinkedIn**: [tu_nombre](https://www.linkedin.com/in/tu_nombre)
-- **Instagram**: [@theyhatejuni](https://www.instagram.com/tu_usuario)
+- **Facebook**: [Jonathan Melendez](https://www.facebook.com/jonathan.melendez.vtal?mibextid=LQQJ4d)
+- **Instagram**: [@theyhatejuni](https://www.instagram.com/theyhatejuni)
 
 ¡Gracias por visitar mi repositorio!
