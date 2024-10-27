@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+    background-color: black;
+    font-family: "Open Sans", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    overflow: hidden;
+    margin-top: 60px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 90vw;
+    justify-content: space-between;
+}
+
+.panel {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    border-radius: 60px;
+    cursor: pointer;
+    flex: 0.5; /*Valor inicial para que cuando tengamos clase activa lo cambiemos*/
+    margin: 10px;
+    position: relative;
+    transition: flex 0.7s ease-in;
+}
+
+.panel h3 {
+    font-size: 24px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    margin: 0;
+    opacity: 0;
+}
+
+.panel p {
+    font-size: 18px;
+    position: absolute;
+    bottom: 60px;
+    left: 20px;
+    margin: 0;
+    opacity: 0;
+}
+
+.panel.active {
+    flex: 5;
+}
+
+.panel.active h3 {
+    opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
+}
+
+.panel.active p {
+    opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
+}
+
+@media(max-width: 480px) {
+    .container {
+        width: 100vw;
+    }
+
+    .panel:nth-of-type(4),.panel:nth-of-type(5) {
+        display: none;
+    }
+}
+
+@media(max-width: 678px) {
+    .panel p {
+        margin: 40px auto;
+    }
+}
+
