@@ -16,7 +16,7 @@ Cada proyecto está organizado en carpetas numeradas de `01` a `50`. Dentro de c
 - `index.html`: Estructura principal del proyecto.
 - `style.css`: Estilos específicos de cada proyecto.
 - `script.js`: Funcionalidades en JavaScript.
-- **Instrucción breve:** ``Carpeta project` carpeta con estilos y font iniciales para los demas proyectos.`
+- **Instrucción breve:** ``Carpeta project`   carpeta con estilos y font iniciales para los demas proyectos.`
 
 ## Instalación
 
@@ -25,6 +25,7 @@ Para utilizar este repositorio, sigue estos pasos:
 1. **Clona el repositorio**: Abre tu terminal y ejecuta el siguiente comando:
    ```bash
    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+## Contacto
 
 Puedes seguirme en mis redes sociales para más proyectos y actualizaciones:
 
