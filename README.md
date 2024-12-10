@@ -25,11 +25,5 @@ Para utilizar este repositorio, sigue estos pasos:
 1. **Clona el repositorio**: Abre tu terminal y ejecuta el siguiente comando:
    ```bash
    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-## Contacto
 
-Puedes seguirme en mis redes sociales para más proyectos y actualizaciones:
 
-- **Facebook**: [Jonathan Melendez](https://www.facebook.com/jonathan.melendez.vtal?mibextid=LQQJ4d)
-- **Instagram**: [@theyhatejuni](https://www.instagram.com/theyhatejuni?igsh=cDFsanVkNGt2c3g0)
-
-¡Gracias por visitar mi repositorio!
